@@ -19,6 +19,7 @@ export default function Home() {
         <SeatsSection />
         <AccordionSection />
         <h1>hello</h1>
+        <h1>hello</h1>
       </PageDiv>
     </>
   );
